@@ -25,7 +25,6 @@ const contenedorImagen = document.querySelector(".main__hero");
 const imagenes=[
 
     `url("../images/desktop-image-hero-1.jpg")`,
-    
     `url("../images/desktop-image-hero-2.jpg")`,
     `url("../images/desktop-image-hero-3.jpg")`,
 ]
